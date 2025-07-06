@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "coiffure-julie",
+    "nom": "Julie Coiffure",
+    "logo": "https://i.imgur.com/Xc7KnbE.png",
+    "banniere": "https://i.imgur.com/LkGkkdI.jpg",
+    "couleur": "#F72585",
+    "intro": "Bienvenue sur la fiche digitale de Julie !",
+    "description": "Salon moderne, dégradés, soins, coloration pro. Situé à Marseille.",
+    "telephone": "+33600000000",
+    "maps": "https://goo.gl/maps/FjWcGVqk7L8VdL9i9",
+    "rdv": "https://planity.com/julie",
+    "liens": [
+      { "type": "Instagram", "url": "https://instagram.com/juliecoiffure" },
+      { "type": "TikTok", "url": "https://tiktok.com/@juliecoiffure" }
+    ],
+    "statut": "actif"
+  }
+]

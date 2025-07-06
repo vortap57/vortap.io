@@ -1,0 +1,19 @@
+{
+  "nom": "Julie Coiffure",
+  "logo": "logo.png",
+  "intro": "Bienvenue chez Julie !",
+  "liens": [
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/julie"
+    },
+    {
+      "type": "Planity",
+      "url": "https://planity.com/julie"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://tiktok.com/@julie"
+    }
+  ]
+}
